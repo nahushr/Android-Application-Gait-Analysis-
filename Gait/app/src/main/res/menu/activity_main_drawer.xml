@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+        <item
+            android:id="@+id/accelerometer"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Accelerometer" />
+        <item
+            android:id="@+id/gyroscope"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Gyroscope" />
+        <item
+            android:id="@+id/stepcounter"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Step Counter" />
+        <item
+            android:id="@+id/history"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="History" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "881833087103",
+    "firebase_url": "https://gait-analysis-1dd9a.firebaseio.com",
+    "project_id": "gait-analysis-1dd9a",
+    "storage_bucket": "gait-analysis-1dd9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881833087103:android:e91b583b0445249a",
+        "android_client_info": {
+          "package_name": "com.example.naush.gait"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881833087103-h0vebqgi8n1jaupb1djf86t7f0alp41d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiwQVhl1jHpjgiHfxa7gQo7qVZoy0IiEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

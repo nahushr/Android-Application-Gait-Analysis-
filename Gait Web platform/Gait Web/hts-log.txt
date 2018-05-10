@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 Mar 2018 01:22:34 at https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html -O1 "C:\Users\NAUSH\Desktop\Gait Web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:22:47	Error: 	"Not Found" (404) at link https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/images/sort_both.png (from https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/datatables-plugins/dataTables.bootstrap.css)
+01:22:47	Error: 	"Not Found" (404) at link https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/images/sort_asc.png (from https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/datatables-plugins/dataTables.bootstrap.css)
+01:22:47	Error: 	"Not Found" (404) at link https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/images/sort_desc.png (from https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/datatables-plugins/dataTables.bootstrap.css)
+01:22:47	Error: 	"Not Found" (404) at link https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/images/sort_asc_disabled.png (from https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/datatables-plugins/dataTables.bootstrap.css)
+01:22:47	Error: 	"Not Found" (404) at link https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/images/sort_desc_disabled.png (from https://blackrockdigital.github.io/startbootstrap-sb-admin-2/vendor/datatables-plugins/dataTables.bootstrap.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 44 links scanned, 38 files written (1290408 bytes overall) [361741 bytes received at 27826 bytes/sec], 1342324 bytes transferred using HTTP compression in 44 files, ratio 24%, 22.0 requests per connection
+(5 errors, 0 warnings, 0 messages)
